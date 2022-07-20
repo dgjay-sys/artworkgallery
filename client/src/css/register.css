@@ -1,0 +1,22 @@
+.bgimage{
+    background-image: url("../img/22_04_2022 19_06_51.png");
+    height: 100vh;
+    margin: 0;
+    width: 100vw;
+    padding-top: 100px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bgcontent{
+    background-color: #F7CCAC;
+    color: #826F66;
+    box-shadow: 10px 15px 17px 18px #733C3C !important;
+    
+}
+.bttnNext:hover{
+    background-color: #826F66 !important;
+    color: white;
+}

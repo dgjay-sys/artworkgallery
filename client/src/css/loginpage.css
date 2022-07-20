@@ -1,0 +1,14 @@
+.bimage{
+    background-image: url("../img/22_04_2022 19_06_51.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 5px;
+}
+.buttonsignin:hover{
+    background-color: #3A3845 !important;
+    color: white;
+    font-size: 18px;
+}
+.bshadow{
+    box-shadow: 10px 15px 17px 18px #733C3C !important;
+}

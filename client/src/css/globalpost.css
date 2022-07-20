@@ -1,0 +1,13 @@
+body{
+        background-image: url("../img/markus-spiske-k0rVudBoB4c-unsplash.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+}
+.Arts{
+        height: auto;
+}
+
+.iiz__img{
+        height: auto !important;
+        width: 850px !important;
+}
